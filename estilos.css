@@ -1,0 +1,86 @@
+*{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background: rgb(218, 70, 70);
+    color:white;
+}
+h3{
+    margin-top: 100px;
+    margin-bottom: 15px;
+    font-size: 30px;
+}
+#input{
+    border-style: none;
+    font-size: 20px;
+}
+#input::placeholder{
+    color:rgb(253, 132, 132)
+}
+#input:focus{
+    outline: none;
+}
+#button{
+    background-color: white;
+    color: rgb(218, 70, 70);
+    border-radius: 50%;
+    margin: 1px white;
+    border-style: none;
+    font-size: 20px;
+    width: 30px;
+    height: 30px;
+}
+#button:hover{
+    background: rgb(253, 132, 132);
+    color: white;
+    cursor: pointer;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.footerChild{
+    margin: 9px;
+}
+#container{
+   
+    margin:20px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.containerChild{
+    color: black;
+    background: white;
+    padding: 20px;
+    width: 250px;
+    height: 20px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+.label{
+    background: white;
+    color: black;
+   
+}
+.fa-trash-can{
+    background-color: white;
+    color: black;
+}
+.fa-trash-can:hover{
+    cursor: pointer;
+}
