@@ -12,17 +12,7 @@ Aplicación web para el manejo y gestión de tareas para uso personal y empresar
       <th>HTML</th>
       <th>CSS</th>
       <th>JavaScript</th>
-      <th>Sass</th>
-      <th>React</th>
-      <th>React Router</th>
-      <th>Redux</th>
-      <th>Axios</th>
-      <th>Firebase</th>
-      <th>React Slick</th>
       <th>Bootstrap Icons</th>
-      <th>SweetAlert2</th>
-      <th>Formik</th>
-      <th>yup</th>
     </tr>
   </thead>
   <tbody>
